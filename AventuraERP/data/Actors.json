@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Adrian","characterIndex":0,"characterName":"Protas","classId":1,"equips":[1,0,46,3,0],"faceIndex":0,"faceName":"Protas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Adrian","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Dani","characterIndex":1,"characterName":"Protas","classId":1,"equips":[1,0,46,9,0],"faceIndex":1,"faceName":"Protas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dani","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Lana","characterIndex":3,"characterName":"Protas","classId":3,"equips":[0,0,65,20,0],"faceIndex":3,"faceName":"Protas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lana","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Victor","characterIndex":2,"characterName":"Protas","classId":1,"equips":[1,0,46,5,100],"faceIndex":2,"faceName":"Protas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Victor","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":7,"equips":[37,0,0,8,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"フレッド","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor2_2","characterIndex":1,"characterName":"Actor2","classId":6,"equips":[1,0,0,20,0],"faceIndex":1,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"イリア","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":5,"equips":[31,0,0,3,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ヴァイス","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":8,"equips":[43,43,0,3,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"エリザ","nickname":"","note":"","profile":""}
+]
