@@ -9,5 +9,5 @@ null,
 {"id":7,"expanded":false,"name":"Entrada mina","order":5,"parentId":6,"scrollX":459,"scrollY":312.5},
 {"id":8,"expanded":false,"name":"Mina","order":6,"parentId":7,"scrollX":1049.142857142857,"scrollY":863.1428571428571},
 null,
-{"id":10,"expanded":false,"name":"Lago","order":9,"parentId":0,"scrollX":684,"scrollY":580.5}
+{"id":10,"expanded":false,"name":"Lago","order":9,"parentId":0,"scrollX":676,"scrollY":912.5}
 ]
