@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Adrian","characterIndex":0,"characterName":"Protas","classId":1,"equips":[1,0,46,3,0],"faceIndex":0,"faceName":"Protas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Adrian","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Adrian","characterIndex":0,"characterName":"Protas","classId":1,"equips":[1,0,46,3,0],"faceIndex":0,"faceName":"Protas","traits":[{"code":21,"dataId":6,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Adrian","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Dani","characterIndex":1,"characterName":"Protas","classId":1,"equips":[1,0,46,9,0],"faceIndex":1,"faceName":"Protas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dani","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Lana","characterIndex":3,"characterName":"Protas","classId":3,"equips":[0,0,65,20,0],"faceIndex":3,"faceName":"Protas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lana","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Victor","characterIndex":2,"characterName":"Protas","classId":1,"equips":[1,0,46,5,100],"faceIndex":2,"faceName":"Protas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Victor","nickname":"","note":"","profile":""},
