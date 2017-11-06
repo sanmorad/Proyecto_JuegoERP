@@ -6,8 +6,8 @@ null,
 {"id":4,"expanded":true,"name":"Cruce","order":7,"parentId":0,"scrollX":459,"scrollY":312.5},
 {"id":5,"expanded":false,"name":"Templo ERP","order":8,"parentId":0,"scrollX":899.9999999999999,"scrollY":508.2857142857143},
 {"id":6,"expanded":true,"name":"Desierto","order":4,"parentId":2,"scrollX":550,"scrollY":577.5},
-{"id":7,"expanded":false,"name":"Entrada mina","order":5,"parentId":6,"scrollX":459,"scrollY":312.5},
-{"id":8,"expanded":false,"name":"Mina","order":6,"parentId":7,"scrollX":1049.142857142857,"scrollY":863.1428571428571},
+{"id":7,"expanded":true,"name":"Entrada mina","order":5,"parentId":6,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":false,"name":"Mina","order":6,"parentId":7,"scrollX":2132,"scrollY":987},
 null,
-{"id":10,"expanded":false,"name":"Lago","order":9,"parentId":0,"scrollX":676,"scrollY":912.5}
+{"id":10,"expanded":false,"name":"Lago","order":9,"parentId":0,"scrollX":811,"scrollY":461}
 ]
