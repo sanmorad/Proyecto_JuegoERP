@@ -9,10 +9,11 @@ null,
 {"id":7,"expanded":true,"name":"Entrada mina","order":12,"parentId":6,"scrollX":819,"scrollY":461.5},
 {"id":8,"expanded":false,"name":"Mina","order":13,"parentId":7,"scrollX":2334,"scrollY":986.5},
 {"id":9,"expanded":false,"name":"InteriorTemplo","order":8,"parentId":5,"scrollX":811,"scrollY":998.5},
+{"id":10,"expanded":false,"name":"Lago","order":9,"parentId":0,"scrollX":811,"scrollY":821},
 {"id":11,"expanded":false,"name":"ERP","order":9,"parentId":9,"scrollX":1066,"scrollY":593},
 {"id":12,"expanded":true,"name":"Caverna","order":4,"parentId":2,"scrollX":819,"scrollY":461.5},
 {"id":13,"expanded":false,"name":"Cueva Jefe","order":5,"parentId":12,"scrollX":819,"scrollY":461.5},
 {"id":14,"expanded":true,"name":"Empresa_arreglada","order":14,"parentId":0,"scrollX":821,"scrollY":794.5},
 {"id":15,"expanded":false,"name":"Oficina_arreglada","order":15,"parentId":14,"scrollX":819,"scrollY":461.5}
-{"id":10,"expanded":false,"name":"Lago","order":9,"parentId":0,"scrollX":811,"scrollY":821}
+
 ]
