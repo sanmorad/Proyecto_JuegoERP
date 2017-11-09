@@ -15,6 +15,6 @@ null,
 {"id":13,"expanded":false,"name":"Cueva Jefe","order":5,"parentId":12,"scrollX":913.7142857142857,"scrollY":508.2857142857143},
 {"id":14,"expanded":true,"name":"Empresa_arreglada","order":14,"parentId":0,"scrollX":899.9999999999999,"scrollY":739.7142857142857},
 {"id":15,"expanded":false,"name":"Oficina_arreglada","order":15,"parentId":14,"scrollX":913.7142857142857,"scrollY":508.2857142857143},
-{"id":16,"expanded":false,"name":"Taberna","order":16,"parentId":14,"scrollX":913.7142857142857,"scrollY":508.2857142857143},
+{"id":16,"expanded":false,"name":"Taberna","order":16,"parentId":14,"scrollX":533,"scrollY":296.5},
 {"id":17,"expanded":true,"name":"Empresa intro","order":17,"parentId":0,"scrollX":899.9999999999999,"scrollY":534}
 ]
