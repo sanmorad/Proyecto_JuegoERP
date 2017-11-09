@@ -1,5 +1,6 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":913.7142857142857,"scrollY":508.2857142857143},
 {"id":2,"expanded":true,"name":"Empresa","order":2,"parentId":0,"scrollX":899.9999999999999,"scrollY":739.7142857142857},
 {"id":3,"expanded":false,"name":"Oficina","order":3,"parentId":2,"scrollX":913.7142857142857,"scrollY":508.2857142857143},
